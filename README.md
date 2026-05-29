@@ -1,3 +1,3 @@
-## Hallo daar!👋
+## Hallo daar! 👋
 
-<iframe src="https://githubcard.com/jorian2005.svg?d=EGdA5eP3">
+![GitHub Card](https://githubcard.com/jorian2005.svg?d=EGdA5eP3)
